@@ -157,9 +157,47 @@
         font-size: 10px;
     }
 
+    .eachset,
+    .top-header-Wrap {
+        text-align: center;
+        justify-content: center;
+    }
+
+    .profile-icon {
+        display: none;
+    }
+
+    .footer-links .footer-head {
+        padding: 24px 0;
+        border-bottom: 1px solid rgba(229, 229, 229, 1);
+    }
+
+    .footer-links .footer-head h5 {
+        margin-bottom: 8px;
+    }
+
+    .top-header-Wrap {
+        margin: 0;
+    }
+    .payment-icons {
+    flex-wrap: wrap;}
+
+    .subscribe-button {
+        padding: 10px;
+    }
+
     .pr-wishlist img {
         width: 16px;
         height: auto;
         margin-bottom: 16px;
+    }
+    .subscribe-box{
+        flex-wrap: wrap;
+    }
+    .subscribe-input{
+        margin-bottom: 20px;
+    }
+    .subscribe-button{
+        margin-left: 0;
     }
 }

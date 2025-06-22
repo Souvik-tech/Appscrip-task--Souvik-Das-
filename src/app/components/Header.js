@@ -72,7 +72,7 @@ const Header = () => {
                                         <Image src="/img/shopping-bag.png" alt="cart" width={24} height={24} />
                                     </Link>
                                 </li>
-                                <li>
+                                <li className='profile-icon'>
                                     <Link href="#">
                                         <Image src="/img/profile.png" alt="profile" width={24} height={24} />
                                     </Link>
